@@ -1,6 +1,9 @@
 
 ![Banner](https://res.cloudinary.com/duayouuav/image/upload/v1693693212/Beige_Black_Geometric_Technology_LinkedIn_Banner_1_drop0y.png)
 <p><a href="https://github.com/HuilenPe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/huilen-pe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:huilenpe@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 <img align="right" src="https://komarev.com/ghpvc/?username=HuilenPe&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
 </p>
 <h3>Things I code with</h3>
@@ -15,13 +18,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-
-
-
 </p>  
 
+
 <h3> A little about me... </h3>
-<p>"Hi, I'm Huilen. Originally from Argentina with Italian descent and a Ukrainian background, and I currently reside in Spain."</p>
+<p><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi, I'm Huilen. Originally from Argentina with Italian descent and a Ukrainian background, and I currently reside in Spain.</p>
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  <div>
