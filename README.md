@@ -26,11 +26,12 @@
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HuilenPe" alt="Gift's LangStat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuilenPe" alt="Gift's LangStat" />
  </div>  
+
  
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuilenPe&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language"   width="495px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HuilenPe&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language"   width="495px"/>
 </div>
 
 
